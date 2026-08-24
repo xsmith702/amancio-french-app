@@ -1,0 +1,6 @@
+{
+  "name": "French A0 to C2 Progression Companion",
+  "description": "An interactive, AI-powered French progression companion supporting complete beginners to advanced mastery (A0 through C2) with custom curriculums, Anki SRS flashcards, speaking simulations, pronunciation breakdowns, and bilingual EN/FR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
